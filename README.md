@@ -1,5 +1,5 @@
 # Photoshop-Guide-2017
-A Guide To Web Designer
+A Guide To Web Designer  <a href="http://viggoz.com/photoshopetiquette">Photoshop礼仪</a>
 
 <div class="content">
                                 <h2>什么是Photoshop礼仪？</h2>
