@@ -7,7 +7,7 @@ A Guide To Web Designer  <a href="http://viggoz.com/photoshopetiquette">Photosho
 <div class="content">
                                 <h2>什么是Photoshop礼仪？</h2>
                                 <p>Adobe Photoshop是一个强大的程序，可以用来做照片编辑，UI设计，数字绘画，或者矢量工作。掌握所有键盘快捷键和工作流程需要多年时间。</p>
-                                <p>Photoshop礼仪是一个免费的在线指南，可以帮助你学习高效的工作流程。</p>
+                                <p><a href="http://viggoz.com/photoshopetiquette">Photoshop礼仪</a>是一个免费的在线指南，可以帮助你学习高效的工作流程。</p>
                                 <p>这个在线指南介绍了Photoshop的基本功能，说明了它们的工作原理，以及如何正确地将其用于工作流程当中。它分为六章： <strong>文件管理</strong> <strong>图层</strong> <strong>切图</strong> <strong>字体</strong> <strong>特效</strong> <strong>质量</strong></p>
                                 <p>注意本指南不是完整介绍怎样使用 Photoshop 设计网页。在看这些之前你应该要知道软件的基础知识，并且能够完成基本的网页设计。</p>
                             </div>
